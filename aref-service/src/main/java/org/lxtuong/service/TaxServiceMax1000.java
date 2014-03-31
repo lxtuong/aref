@@ -1,7 +1,7 @@
 package org.lxtuong.service;
 
 
-public class TaxServiceMaxIncomeImpl implements TaxService {
+public class TaxServiceMax1000 implements TaxService {
   private final double MAX_INCOME = 1000;
   
   @Override
